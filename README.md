@@ -37,6 +37,8 @@ Ambas variantes se ejecutan en dos instancias de datos, `CH130.tsp` y `A280.tsp`
 
 ## Resultados de las Simulaciones
 
+## Resultados de las Simulaciones
+
 ### Caminos obtenidos en las diferentes instancias y configuraciones
 
 ![A280 123456 con SH](imagenes/A280%20123456%20con%20SH.png)
@@ -59,5 +61,7 @@ Ambas variantes se ejecutan en dos instancias de datos, `CH130.tsp` y `A280.tsp`
 ![CH130 835776 con SH](imagenes/CH130%20835776%20con%20SH.png)
 ![CH130 917325 con SHE](imagenes/CH130%20917325%20con%20SHE.png)
 ![CH130 917325 con SH](imagenes/CH130%20917325%20con%20SH.png)
+![Greedy A280](imagenes/Greedy%20A280.png)
+![Greedy CH130](imagenes/Greedy%20CH130.png)
 
 
