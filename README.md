@@ -35,26 +35,29 @@ Ambas variantes se ejecutan en dos instancias de datos, `CH130.tsp` y `A280.tsp`
 
    ## Resultados de las Simulaciones
 
+## Resultados de las Simulaciones
+
 ### Caminos obtenidos en las diferentes instancias y configuraciones
 
-![A280 123456 con SH](imagenes/A280 123456 con SH.png)
-![A280 123456 con SHE](imagenes/A280 123456 con SHE.png)
-![A280 672341 con SH](imagenes/A280 672341 con SH.png)
-![A280 672341 con SHE](imagenes/A280 672341 con SHE.png)
-![A280 758293 con SH](imagenes/A280 758293 con SH.png)
-![A280 758293 con SHE](imagenes/A280 758293 con SHE.png)
-![A280 835776 con SH](imagenes/A280 835776 con SH.png)
-![A280 835776 con SHE](imagenes/A280 835776 con SHE.png)
-![A280 917325 con SH](imagenes/A280 917325 con SH.png)
-![A280 917325 con SHE](imagenes/A280 917325 con SHE.png)
-![CH130 123456 con SHE](imagenes/CH130 123456 con SHE.png)
-![CH130 123456 con SH](imagenes/CH130 123456 con SH.png)
-![CH130 672341 con SHE](imagenes/CH130 672341 con SHE.png)
-![CH130 672341 con SH](imagenes/CH130 672341 con SH.png)
-![CH130 758293 con SHE](imagenes/CH130 758293 con SHE.png)
-![CH130 758293 con SH](imagenes/CH130 758293 con SH.png)
-![CH130 835776 con SHE](imagenes/CH130 835776 con SHE.png)
-![CH130 835776 con SH](imagenes/CH130 835776 con SH.png)
-![CH130 917325 con SHE](imagenes/CH130 917325 con SHE.png)
-![CH130 917325 con SH](imagenes/CH130 917325 con SH.png)
+![A280 123456 con SH](imagenes/A280%20123456%20con%20SH.png)
+![A280 123456 con SHE](imagenes/A280%20123456%20con%20SHE.png)
+![A280 672341 con SH](imagenes/A280%20672341%20con%20SH.png)
+![A280 672341 con SHE](imagenes/A280%20672341%20con%20SHE.png)
+![A280 758293 con SH](imagenes/A280%20758293%20con%20SH.png)
+![A280 758293 con SHE](imagenes/A280%20758293%20con%20SHE.png)
+![A280 835776 con SH](imagenes/A280%20835776%20con%20SH.png)
+![A280 835776 con SHE](imagenes/A280%20835776%20con%20SHE.png)
+![A280 917325 con SH](imagenes/A280%20917325%20con%20SH.png)
+![A280 917325 con SHE](imagenes/A280%20917325%20con%20SHE.png)
+![CH130 123456 con SHE](imagenes/CH130%20123456%20con%20SHE.png)
+![CH130 123456 con SH](imagenes/CH130%20123456%20con%20SH.png)
+![CH130 672341 con SHE](imagenes/CH130%20672341%20con%20SHE.png)
+![CH130 672341 con SH](imagenes/CH130%20672341%20con%20SH.png)
+![CH130 758293 con SHE](imagenes/CH130%20758293%20con%20SHE.png)
+![CH130 758293 con SH](imagenes/CH130%20758293%20con%20SH.png)
+![CH130 835776 con SHE](imagenes/CH130%20835776%20con%20SHE.png)
+![CH130 835776 con SH](imagenes/CH130%20835776%20con%20SH.png)
+![CH130 917325 con SHE](imagenes/CH130%20917325%20con%20SHE.png)
+![CH130 917325 con SH](imagenes/CH130%20917325%20con%20SH.png)
+
 
